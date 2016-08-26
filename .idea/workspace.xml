@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fc62206-febe-40ed-9e1e-c9214e5ccb7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_junit_2_0_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/pl_pragmatists_JUnitParams_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Map1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Map2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Map1Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Map2Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/Map2Test.java" afterPath="$PROJECT_DIR$/test/Map2Test.java" />
     </list>
     <ignored path="tiy-homework-tdd-java-katas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,11 +39,9 @@
       <file leaf-file-name="Map2Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/Map2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18360">
-              <caret line="1224" column="20" selection-start-line="1224" selection-start-column="20" selection-end-line="1224" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,8 +68,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Map1.java" />
         <option value="$PROJECT_DIR$/src/Map2.java" />
-        <option value="$PROJECT_DIR$/test/Map2Test.java" />
         <option value="$PROJECT_DIR$/test/Map1Test.java" />
+        <option value="$PROJECT_DIR$/test/Map2Test.java" />
       </list>
     </option>
   </component>
@@ -760,7 +753,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1472057522519</updated>
-      <workItem from="1472057551124" duration="52552000" />
+      <workItem from="1472057551124" duration="52959000" />
     </task>
     <servers />
   </component>
@@ -786,8 +779,8 @@
     <history-entry file="Map2Test - 2016.08.26 at 17h 21m 22s.xml">
       <configuration name="Map2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Map2Test_firstSwapTest7 - 2016.08.26 at 17h 13m 10s.xml">
-      <configuration name="Map2Test.firstSwapTest7" configurationId="JUnit" />
+    <history-entry file="Map2Test - 2016.08.26 at 17h 30m 11s.xml">
+      <configuration name="Map2Test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Map2Test_firstSwapTest8 - 2016.08.26 at 17h 13m 55s.xml">
       <configuration name="Map2Test.firstSwapTest8" configurationId="JUnit" />
@@ -797,10 +790,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52552000" />
+    <option name="totallyTimeSpent" value="52959000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="141" width="1440" height="685" extended-state="0" />
+    <frame x="2" y="141" width="1440" height="685" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -933,11 +926,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/Map2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18360">
-          <caret line="1224" column="20" selection-start-line="1224" selection-start-column="20" selection-end-line="1224" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
